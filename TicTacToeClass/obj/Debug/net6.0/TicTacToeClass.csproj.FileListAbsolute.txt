@@ -1,0 +1,12 @@
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\bin\Debug\net6.0\TicTacToeClass.deps.json
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\bin\Debug\net6.0\TicTacToeClass.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\bin\Debug\net6.0\TicTacToeClass.pdb
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\TicTacToeClass.csproj.AssemblyReference.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\TicTacToeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\TicTacToeClass.AssemblyInfoInputs.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\TicTacToeClass.AssemblyInfo.cs
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\TicTacToeClass.csproj.CoreCompileInputs.cache
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\TicTacToeClass.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\refint\TicTacToeClass.dll
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\TicTacToeClass.pdb
+C:\Users\anton\Antonio\1_programming\csharp\a_personal_projects\TicTacToeClass\obj\Debug\net6.0\ref\TicTacToeClass.dll
